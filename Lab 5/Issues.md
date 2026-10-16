@@ -1,7 +1,7 @@
 # Issues found in support_ticket_tracker.py
-NAME: Darshana S.
-SRN: PES1UG24CS913.
-SECTION: 5 J 
+NAME: Darshana S\
+SRN: PES1UG24CS913\
+SECTION: 5 J\ 
 Line numbers refer to the **original** file. Issue numbers match the commit messages ("Fix Issue N: ...").
 Severity: Bandit rating, or Pylint category (W = warning, R = refactor, C = convention).
 
